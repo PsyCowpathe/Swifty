@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swiftyy</string>
+    <string name="uri">https://www.google.fr/</string>
+    <string name="login_url">https://api.intra.42.fr/oauth/authorize?client_id=u-s4t2ud-3ed71de29823c9dc3818a9533113efe69e0444fae2a53c7c467249dbec61ce7d&amp;redirect_uri=https%3A%2F%2Fwww.google.fr%2F&amp;response_type=code&amp;state=</string>
+    <string name="token_url">https://api.intra.42.fr/oauth/token</string>
+    <string name="me">https://api.intra.42.fr/v2/me</string>
+    <string name="find_user">https://api.intra.42.fr//v2/users?filter[login]=</string>
+    <string name="user_data">https://api.intra.42.fr/v2/users/</string>
+    <string name="error_csrf">Warning : Returned state is different from original one you may be victim of a CSRF attack !</string>
+
+</resources>
